@@ -12,7 +12,7 @@ The Purpose of this repo is the give an idea of how routing works in React and w
 
 ### Key Points To Remember:
 
-- With v6 the "Switch" component has been replaced to the "Routes" component. So the final code will be something like:
+- With v6 the `Switch` component has been replaced to the `Routes` component. So the final code will be something like:
 
 ```
 <Router>
@@ -25,7 +25,7 @@ The Purpose of this repo is the give an idea of how routing works in React and w
 
 ```
 
-- We can see the "component" attribute in "Route" has changed to "element"
+- We can see the `component` attribute in `Route` has changed to `element`
 
 There have been lot other changes, so it is highly recommended to check the official documentation for v6.0
 
